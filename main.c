@@ -7,6 +7,7 @@
         if(a%4==0)
         {
                 printf("it is a leap year:");
+                printf("hello:");
         }
         else
         {
